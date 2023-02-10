@@ -80,13 +80,13 @@ body{
     animation: car 1s linear infinite;
 }
 @keyframes car{
-    100%{
+    0%{
         transform: translateY(-1px);
     }
     50%{
         transform: translateY(1px);
     }
-    0%{
+    100%{
         transform: translateY(-1px);
     }
 }
