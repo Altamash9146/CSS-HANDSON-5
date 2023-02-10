@@ -138,42 +138,42 @@ body{
     transition: 1s;
 }
 .box-A:hover{
-    width: 250px;
+    width: 300px;
 }
 .box-B{
     transition: 1s;
 }
 .box-B:hover{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
 }
 .box-C{
     transition: 1s linear;
 }
 .box-C:hover{
-    width: 250px;
+    width: 300px;
 }
 .box-D{
     transition: 1s ease;
 }
 .box-D:hover{
-    width: 250px;
+    width: 300px;
 }
 .box-E{
     transition: 1s ease-in;
 }
 .box-E:hover{
-    width: 250px;
+    width: 300px;
 }
 .box-F{
     transition: 2s ease-in-out;
 }
 .box-F:hover{
-    width: 250px;
+    width: 300px;
 }
 .box-G{
     transition: 1s ease-in-out;
 }
 .box-G:hover{
-    width: 250px;
+    width: 300px;
 }
