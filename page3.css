@@ -104,7 +104,7 @@ body{
     height: 72px;
     animation: wheel 1s linear infinite;
 }
-.back-wheel{
+.rear-wheel{
     position: absolute;
     left: -164.5px;
     bottom: -65px;
